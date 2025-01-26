@@ -1,0 +1,10 @@
+# ignore file with API keys
+tokens.sh
+.env
+
+
+# jupyter stuff
+.ipynb_checkpoints/
+
+# mac stuff
+.idea

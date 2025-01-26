@@ -1,0 +1,19 @@
+Group Members: Devina Gera, Priyal Nanda
+
+Instructions:
+Once you have a team, you will brainstorm on an idea that involves generating structured or unstructured text using an LLM. 
+Try out your idea on 383GPT to get a sense of what is possible. 
+Include your findings in your project proposal where you indicate the models capabilties on a single prompt. 
+You are free to choose the discipline, it can be science, poetry, literature, language etc. 
+Write a draft of the idea, providing details on the problem, the dataset that you will use and how you will evaluate the performance of the LLM. 
+Submit a draft on gradescope, a course staff will be assigned to mentor you during the 8 weeks of the project.
+
+Examples:
+- Generating SQL code from python panda code
+- Generating sentences that rhyme but limited to a specific topic
+- Generating a score for CVs given a job description
+- Generating a summary of a 383 lecture
+
+Project Idea (draft 1)
+**note: Draft should be PDF, max 300 words.**
+
